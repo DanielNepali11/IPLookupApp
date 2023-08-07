@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Get information about countries via a RESTful API</description>
+        <name>REST Countries</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://restcountries.com/v3.1/name/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 14:18:54</sys_created_on>
+        <sys_id>884f190597a031104d9eb876f053af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REST Countries</sys_name>
+        <sys_package display_value=" IPLookup" source="x_1051251_iplookup">0df63e47971031104d9eb876f053af57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">0df63e47971031104d9eb876f053af57</sys_scope>
+        <sys_update_name>sys_rest_message_884f190597a031104d9eb876f053af8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 14:18:54</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" IPLookup">0df63e47971031104d9eb876f053af57</application>
+        <file_path/>
+        <instance_id>dfa0baf7db85a95842b321c4059619f9</instance_id>
+        <instance_name>dev154214</instance_name>
+        <name>sys_rest_message_884f190597a031104d9eb876f053af8e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description>Get information about countries via a RESTful API</description><name>REST Countries</name><oauth2_profile/><protocol_name/><rest_endpoint>https://restcountries.com/v3.1/name/</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-07 14:18:54</sys_created_on><sys_id>884f190597a031104d9eb876f053af8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>REST Countries</sys_name><sys_package display_value=" IPLookup" source="x_1051251_iplookup">0df63e47971031104d9eb876f053af57</sys_package><sys_policy/><sys_scope display_value=" IPLookup">0df63e47971031104d9eb876f053af57</sys_scope><sys_update_name>sys_rest_message_884f190597a031104d9eb876f053af8e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-07 14:18:54</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-1903092450</payload_hash>
+        <record_name>REST Countries</record_name>
+        <reverted_from/>
+        <source>89f63e47971031104d9eb876f053af59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 14:18:54</sys_created_on>
+        <sys_id>657f550597a031104d9eb876f053af4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d05d7c7e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 14:18:54</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>a97f5505f4a0311062cce6f82c74f04c</update_guid>
+        <update_guid_history>a97f5505f4a0311062cce6f82c74f04c:-1903092450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 14:19:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>188b4f37b41945379a2857e4b06fdb89</sys_id>
+        <sys_metadata>884f190597a031104d9eb876f053af8e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REST Countries</sys_name>
+        <sys_package display_value=" IPLookup" source="x_1051251_iplookup">0df63e47971031104d9eb876f053af57</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">0df63e47971031104d9eb876f053af57</sys_scope>
+        <sys_scope_delete display_value="">45c822fedf32465d930b08c694210a71</sys_scope_delete>
+        <sys_update_name>sys_rest_message_884f190597a031104d9eb876f053af8e</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_884f190597a031104d9eb876f053af8e">657f550597a031104d9eb876f053af4d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 14:19:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

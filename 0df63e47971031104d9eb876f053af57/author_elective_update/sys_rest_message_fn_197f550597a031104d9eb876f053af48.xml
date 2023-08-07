@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>REST Countries [ Default GET ]</qualified_name>
+        <rest_endpoint>https://restcountries.com/v3.1/name/</rest_endpoint>
+        <rest_message display_value="REST Countries">884f190597a031104d9eb876f053af8e</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 14:18:54</sys_created_on>
+        <sys_id>197f550597a031104d9eb876f053af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value=" IPLookup" source="x_1051251_iplookup">0df63e47971031104d9eb876f053af57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">0df63e47971031104d9eb876f053af57</sys_scope>
+        <sys_update_name>sys_rest_message_fn_197f550597a031104d9eb876f053af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 14:18:54</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" IPLookup">0df63e47971031104d9eb876f053af57</application>
+        <file_path/>
+        <instance_id>dfa0baf7db85a95842b321c4059619f9</instance_id>
+        <instance_name>dev154214</instance_name>
+        <name>sys_rest_message_fn_197f550597a031104d9eb876f053af48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>REST Countries [ Default GET ]</qualified_name><rest_endpoint>https://restcountries.com/v3.1/name/</rest_endpoint><rest_message display_value="REST Countries">884f190597a031104d9eb876f053af8e</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-07 14:18:54</sys_created_on><sys_id>197f550597a031104d9eb876f053af48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value=" IPLookup" source="x_1051251_iplookup">0df63e47971031104d9eb876f053af57</sys_package><sys_policy/><sys_scope display_value=" IPLookup">0df63e47971031104d9eb876f053af57</sys_scope><sys_update_name>sys_rest_message_fn_197f550597a031104d9eb876f053af48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-07 14:18:54</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>1962823106</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>89f63e47971031104d9eb876f053af59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 14:18:54</sys_created_on>
+        <sys_id>697f550597a031104d9eb876f053af4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d05d7c650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 14:18:54</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>6d7f5505d1a0311052cd0ecff6b61d4a</update_guid>
+        <update_guid_history>6d7f5505d1a0311052cd0ecff6b61d4a:1962823106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 14:19:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>06e4b052e5e24242a3801d261409b8a9</sys_id>
+        <sys_metadata>197f550597a031104d9eb876f053af48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value=" IPLookup" source="x_1051251_iplookup">0df63e47971031104d9eb876f053af57</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">0df63e47971031104d9eb876f053af57</sys_scope>
+        <sys_scope_delete display_value="">45c822fedf32465d930b08c694210a71</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_197f550597a031104d9eb876f053af48</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_197f550597a031104d9eb876f053af48">697f550597a031104d9eb876f053af4b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 14:19:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
